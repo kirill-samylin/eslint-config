@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/kirill-samylin/eslint-config/compare/v1.1.0...v1.1.1) (2023-07-13)
+
+
+### Bug Fixes
+
+* return git plugin ([2c93e26](https://github.com/kirill-samylin/eslint-config/commit/2c93e262112daa44cfdb6c93f2ab738ea6830d42))
+
 # 1.0.0 (2023-07-13)
 
 
