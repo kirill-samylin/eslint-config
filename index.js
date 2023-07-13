@@ -5,7 +5,6 @@ module.exports = {
     'airbnb-base',
     './rules/best-practices.js',
     './rules/errors.js',
-    './rules/flowtype.js',
     './rules/imports.js',
     './rules/react.js',
     './rules/react-hooks.js',
