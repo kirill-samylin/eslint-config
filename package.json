@@ -2,6 +2,13 @@
   "name": "eslint-config",
   "version": "1.0.0",
   "main": "index.js",
+  "private": true,
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/kirill-samylin/eslint-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirill-samylin/eslint-config"
+  },
   "scripts": {
     "lint": "eslint ./"
   },
@@ -16,6 +23,9 @@
       "npm eslint"
     ]
   },
+  "files": [
+    "rules"
+  ],
   "author": "Kirill Samylin",
   "dependencies": {
     "@babel/eslint-parser": "^7.22.7",
@@ -47,6 +57,6 @@
     "typescript": "^5.1.6"
   },
   "engines": {
-    "node": ">16 <17"
+    "node": ">16 <18"
   }
 }
