@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/kirill-samylin/eslint-config/compare/v1.1.3...v1.1.4) (2023-07-28)
+
+
+### Bug Fixes
+
+* npm scope ([73b7f48](https://github.com/kirill-samylin/eslint-config/commit/73b7f4857df9de9593b12641ab856d321d813e79))
+
 ## [1.1.3](https://github.com/kirill-samylin/eslint-config/compare/v1.1.2...v1.1.3) (2023-07-28)
 
 
