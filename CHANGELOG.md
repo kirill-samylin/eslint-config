@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/kirill-samylin/eslint-config/compare/v1.1.4...v1.1.5) (2023-07-28)
+
+
+### Bug Fixes
+
+* npm config ([5447939](https://github.com/kirill-samylin/eslint-config/commit/54479398d1e881bc6082873aa8a6a283e190e776))
+
 ## [1.1.4](https://github.com/kirill-samylin/eslint-config/compare/v1.1.3...v1.1.4) (2023-07-28)
 
 
