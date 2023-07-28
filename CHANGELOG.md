@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/kirill-samylin/eslint-config/compare/v1.1.7...v1.1.8) (2023-07-28)
+
+
+### Bug Fixes
+
+* npm publish ([ceb80aa](https://github.com/kirill-samylin/eslint-config/commit/ceb80aa7a262828529f67d44c6f94b799ed5353f))
+
 ## [1.1.7](https://github.com/kirill-samylin/eslint-config/compare/v1.1.6...v1.1.7) (2023-07-28)
 
 
