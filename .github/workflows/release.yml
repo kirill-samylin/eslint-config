@@ -28,3 +28,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_AUTH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Publish package
+        run: npm publish
+

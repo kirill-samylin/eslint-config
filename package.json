@@ -2,7 +2,6 @@
   "name": "@kirill-samylin/eslint-config",
   "version": "1.1.5",
   "main": "index.js",
-  "private": true,
   "license": "UNLICENSED",
   "homepage": "https://github.com/kirill-samylin/eslint-config",
   "repository": {
