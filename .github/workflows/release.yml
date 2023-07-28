@@ -30,4 +30,6 @@ jobs:
 
       - name: Publish package
         run: npm publish
+        env:
+          NPM_TOKEN: ${{ secrets.GH_AUTH_TOKEN }}
 
