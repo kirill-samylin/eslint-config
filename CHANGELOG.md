@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/kirill-samylin/eslint-config/compare/v1.2.0...v1.2.1) (2023-07-29)
+
+
+### Bug Fixes
+
+* id chat ([d94c0ac](https://github.com/kirill-samylin/eslint-config/commit/d94c0ac18b5d1c8769c4e18fa3d7e16273e2605a))
+
 # [1.2.0](https://github.com/kirill-samylin/eslint-config/compare/v1.1.9...v1.2.0) (2023-07-29)
 
 
