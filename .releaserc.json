@@ -24,7 +24,7 @@
     ],
     "@semantic-release/github",
     ["semantic-release-telegram", {
-      "chats": ["-929333665"],
+      "chats": ["-1001898633998"],
       "templates": {
         "success" : "A new version of <a href='{repository_url}'>{name}</a> has been released. Current version is <b>{version}</b>"
       }
