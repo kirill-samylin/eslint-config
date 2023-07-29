@@ -26,7 +26,7 @@
     ["semantic-release-telegram", {
       "chats": ["-1001898633998"],
       "templates": {
-        "success" : "A new <a href='{repository_url}'>version</a> of <b>\"{name}\": \"^{version}\"</b> has been released."
+        "success" : "A new <a href='{repository_url}'>version</a> of <pre><code class='language-javascript'>\"{name}\": \"^{version}\"</code></pre>\", has been released."
       }
     }]
   ]
