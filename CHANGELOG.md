@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/kirill-samylin/eslint-config/compare/v1.1.9...v1.2.0) (2023-07-29)
+
+
+### Bug Fixes
+
+* id chat ([b631e8c](https://github.com/kirill-samylin/eslint-config/commit/b631e8cb520facc4189d6ce7e0ade5605668b4b3))
+
+
+### Features
+
+* add telegram notify ([a0d35a0](https://github.com/kirill-samylin/eslint-config/commit/a0d35a048d09e125950121287b87cd31d41f48fa))
+
 ## [1.1.9](https://github.com/kirill-samylin/eslint-config/compare/v1.1.8...v1.1.9) (2023-07-28)
 
 
