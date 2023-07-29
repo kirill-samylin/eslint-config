@@ -58,7 +58,7 @@
     "typescript": "^5.1.6"
   },
   "engines": {
-    "node": ">16 <18"
+    "node": "18.x"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@kirill-samylin"
