@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/kirill-samylin/eslint-config/compare/v1.1.8...v1.1.9) (2023-07-28)
+
+
+### Bug Fixes
+
+* semantic release ([f91ccb4](https://github.com/kirill-samylin/eslint-config/commit/f91ccb4bb13a9b9c1c91541ec6df4194ed7e4b59))
+
 ## [1.1.8](https://github.com/kirill-samylin/eslint-config/compare/v1.1.7...v1.1.8) (2023-07-28)
 
 
