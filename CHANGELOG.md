@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/kirill-samylin/eslint-config/compare/v1.2.2...v1.2.3) (2023-07-29)
+
+
+### Bug Fixes
+
+* node version ([11841b0](https://github.com/kirill-samylin/eslint-config/commit/11841b06c227287b9790465f2fb7fee6df1cb8b1))
+
 ## [1.2.2](https://github.com/kirill-samylin/eslint-config/compare/v1.2.1...v1.2.2) (2023-07-29)
 
 
