@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/kirill-samylin/eslint-config/compare/v1.2.3...v1.2.4) (2023-07-29)
+
+
+### Bug Fixes
+
+* deploy template message ([eff0277](https://github.com/kirill-samylin/eslint-config/commit/eff0277a6501b91a340d84faab90e1434517dc09))
+
 ## [1.2.3](https://github.com/kirill-samylin/eslint-config/compare/v1.2.2...v1.2.3) (2023-07-29)
 
 
