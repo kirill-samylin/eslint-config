@@ -22,6 +22,12 @@
         "npmPublish": true
       }
     ],
-    "@semantic-release/github"
+    "@semantic-release/github",
+    ["semantic-release-telegram", {
+      "chats": [ 929333665 ],
+      "templates": {
+        "success" : "A new version of <a href='{repository_url}'>{name}</a> has been released. Current version is <b>{version}</b>"
+      }
+    }]
   ]
 }

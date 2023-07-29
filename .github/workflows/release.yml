@@ -28,3 +28,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_AUTH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GH_AUTH_TOKEN }}
           NPM_TOKEN: ${{ secrets.GH_AUTH_TOKEN }}
+          TELEGRAM_BOT_ID: ${{ secrets.TELEGRAM_BOT_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
