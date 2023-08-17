@@ -1,3 +1,10 @@
+# [1.3.0-rc-pre-release.2](https://github.com/kirill-samylin/eslint-config/compare/v1.3.0-rc-pre-release.1...v1.3.0-rc-pre-release.2) (2023-08-17)
+
+
+### Bug Fixes
+
+* name jobs ([2060bc2](https://github.com/kirill-samylin/eslint-config/commit/2060bc2b2952f635dadb3f03d2adc668dbf955c9))
+
 # [1.3.0-rc-pre-release.1](https://github.com/kirill-samylin/eslint-config/compare/v1.2.5...v1.3.0-rc-pre-release.1) (2023-08-17)
 
 
