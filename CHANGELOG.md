@@ -1,3 +1,10 @@
+# [1.3.0-rc-pre-release.1](https://github.com/kirill-samylin/eslint-config/compare/v1.2.5...v1.3.0-rc-pre-release.1) (2023-08-17)
+
+
+### Features
+
+* add release candidate ([800ac47](https://github.com/kirill-samylin/eslint-config/commit/800ac47dbdc1f3b2c98ecd13a368f1ca9c654c99))
+
 ## [1.2.5](https://github.com/kirill-samylin/eslint-config/compare/v1.2.4...v1.2.5) (2023-07-29)
 
 
