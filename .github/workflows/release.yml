@@ -5,7 +5,7 @@ on:
     branches: ["master"]
 
 jobs:
-  pre-release:
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

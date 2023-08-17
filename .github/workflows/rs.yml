@@ -6,7 +6,7 @@ on:
       - 'rc-**'
 
 jobs:
-  release:
+  pre-release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
