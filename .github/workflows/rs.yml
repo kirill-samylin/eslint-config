@@ -1,11 +1,12 @@
-name: Release
+name: Release Candidate
 
 on:
   push:
-    branches: ["master"]
+    branches:
+      - 'rc-**'
 
 jobs:
-  release:
+  pre-release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
