@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/kirill-samylin/eslint-config/compare/v1.3.0...v1.3.1) (2023-11-18)
+
+
+### Bug Fixes
+
+* remove npmrc ([bc90fb7](https://github.com/kirill-samylin/eslint-config/commit/bc90fb752c0800f3602537970b50a4ca6905f3a9))
+
 # [1.3.0](https://github.com/kirill-samylin/eslint-config/compare/v1.2.5...v1.3.0) (2023-11-18)
 
 
