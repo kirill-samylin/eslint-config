@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/kirill-samylin/eslint-config/compare/v1.2.5...v1.3.0) (2023-11-18)
+
+
+### Bug Fixes
+
+* name jobs ([d949ebf](https://github.com/kirill-samylin/eslint-config/commit/d949ebf8c6388693456f1b46dfb5c2218216267f))
+* name jobs ([2060bc2](https://github.com/kirill-samylin/eslint-config/commit/2060bc2b2952f635dadb3f03d2adc668dbf955c9))
+
+
+### Features
+
+* add release candidate ([800ac47](https://github.com/kirill-samylin/eslint-config/commit/800ac47dbdc1f3b2c98ecd13a368f1ca9c654c99))
+
 # [1.3.0-rc-pre-release.3](https://github.com/kirill-samylin/eslint-config/compare/v1.3.0-rc-pre-release.2...v1.3.0-rc-pre-release.3) (2023-08-17)
 
 
